@@ -1,0 +1,2 @@
+# shinyapp
+simple interest calculator
